@@ -4,4 +4,5 @@ Estudando coleta de dados na Web, acompanhando as aulas do [@teomewhy](https://w
 ### Bibliotcas utilizadas
 - requests
 - beautifulsoap
+- tqdm
 #
